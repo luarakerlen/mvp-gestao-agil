@@ -13,7 +13,7 @@ O objetivo deste projeto é planejar e prototipar um produto utilizando prática
 - `wireframes/`: pasta com os protótipos de interface do aplicativo, que ajudam a validar a experiência do usuário antes da implementação.
 
 ## 🎥 Apresentação em vídeo
-[![Assista à apresentação do projeto no YouTube](https://img.youtube.com/vi/link/0.jpg)](https://youtu.be/link)
+[![Assista à apresentação do projeto no YouTube](https://img.youtube.com/vi/PnnWO8131Ac/0.jpg)](https://youtu.be/PnnWO8131Ac)
 
 ## ✅ Considerações Finais
 
